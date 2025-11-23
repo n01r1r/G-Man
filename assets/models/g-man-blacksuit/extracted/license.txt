@@ -1,0 +1,11 @@
+Model Information:
+* title:	G-man
+* source:	https://sketchfab.com/3d-models/g-man-4e13a071d1e94095b66b1e29a9069ef9
+* author:	Gh4xt3r (https://sketchfab.com/Gh4xt3r)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "G-man" (https://sketchfab.com/3d-models/g-man-4e13a071d1e94095b66b1e29a9069ef9) by Gh4xt3r (https://sketchfab.com/Gh4xt3r) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

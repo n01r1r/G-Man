@@ -1,0 +1,16 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# IDE settings
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
